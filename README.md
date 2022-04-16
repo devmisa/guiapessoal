@@ -36,7 +36,7 @@ Este repositório é um guia de estudos pessoal com base em minha rotina acâdem
 - Uso básico de Git
 - Serviços de hospedagem de repositório (Github)
 - Sistemas de Controle de Versão
-- Banco de Dados Relacionais<br>
+- Banco de Dados<br>
    PostgreSQL ou MySQL
    
 ### APIs
