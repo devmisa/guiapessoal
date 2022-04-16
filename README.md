@@ -1,6 +1,6 @@
 # Roadmap pessoal de estudos
 
-Este repositório é um guia de estudos pessoal com base na minha rotina acâdemia e profissional.
+Este repositório é um guia de estudos pessoal com base em minha rotina acâdemia e profissional.
 
 ## Governança em TI
 
