@@ -4,6 +4,9 @@ Este repositório é um guia de estudos pessoal com base em minha rotina acâdem
 
 ## Governança em TI
 
+## Framework Agile - Scrum
+> Utiliza etapas ou ciclos de desenvolvimento – denominadas sprints – que permitem qualidade nas entregas e possibilidade de mudança de requisitos ao longo do processo. O framework sustenta-se em pilares e papéis bem definidos: os clientes se tornam parte da equipe de desenvolvimento e podem validar ou redefinir entregas. Desta forma, os riscos são melhores trabalhados e reduzidos, já que os progressos e atrasos são monitorados.
+
 ## Internet
 
 - DNS e como ele funciona
