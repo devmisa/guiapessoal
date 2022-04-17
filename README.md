@@ -44,6 +44,11 @@
 - Serviços de hospedagem de repositório (Github)
 - Sistemas de Controle de Versão
  
+ Sites:
+ 
+- [Manual C#](http://help.market.com.br/csharp/) 
+
+ 
 #### Princípios de Design e Desenvolvimento
 
 - SOLID
