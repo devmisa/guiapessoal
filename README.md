@@ -4,6 +4,8 @@
 
 ` Este repositório é um guia de estudos pessoal com base em minha rotina acâdemia e profissional. `
 
+---
+
 ## Governança em TI
 
 ## Framework Agile - Scrum
@@ -45,6 +47,14 @@
 #### Princípios de Design e Desenvolvimento
 
 - SOLID
+>SOLID são cinco princípios da programação orientada a objetos que facilitam no desenvolvimento de softwares, tornando-os fáceis de manter e estender. Esses princípios podem ser aplicados a qualquer linguagem de POO (Programação Orientada a Objeto).
+
+
+Sites:
+- [Treinaweb - Princípios SOLID](https://www.treinaweb.com.br/blog/principios-solid-single-responsability-principle?gclid=Cj0KCQjw0umSBhDrARIsAH7FCod913akyKfQM-xP0Jbg6DhPra_g9o4dPzNhxKLpd_buxmaYhjyUQlwaAqDmEALw_wcB)
+
+Vídeos:
+- [Dicionário do Programador - SOLID](https://www.youtube.com/watch?v=mkx0CdWiPRA)
 
 #### Padrões de Arquitetura
 
