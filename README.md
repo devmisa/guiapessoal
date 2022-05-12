@@ -6,8 +6,6 @@
 
 ---
 
-## Governança em TI
-
 ## Framework Agile - Scrum
 > Utiliza etapas ou ciclos de desenvolvimento – denominadas sprints – que permitem qualidade nas entregas e possibilidade de mudança de requisitos ao longo do processo. O framework sustenta-se em pilares e papéis bem definidos: os clientes se tornam parte da equipe de desenvolvimento e podem validar ou redefinir entregas. Desta forma, os riscos são melhores trabalhados e reduzidos, já que os progressos e atrasos são monitorados.
 
@@ -131,6 +129,9 @@ APIs possuem três formatos:
 > Conhecimento básico de Database
 - PostgreSQL ou MySQL
 
+## Desafios de lógica
 
+- [CodeSignal](https://app.codesignal.com)
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/1?origem=1) `antigo URI Online Judge`
 
 
